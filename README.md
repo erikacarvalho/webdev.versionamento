@@ -16,6 +16,8 @@
 
 <!-- inserir figura com screenshot -->
 
+ ![](static/layout.jpg)
+
 ### Onde encontrar
 
 <!-- inserir url do site -->
