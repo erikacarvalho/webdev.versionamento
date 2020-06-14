@@ -1,5 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-
 # Projeto Versionamento
 
 ## Conteúdos
@@ -28,7 +26,7 @@
 
 ### Estilo
 
-##### Mensagem de commit
+#### Mensagem de commit
 As mensagens de _commit_ devem ser concisas e seguir o seguinte padrão:
 - Língua: pt-br
 - Formato: frase curta que explica a motivação do commit, iniciada com um verbo no imperativo. _Exemplo:_ `adiciona card do filme moonlight`
