@@ -113,3 +113,13 @@ header img {
     height: auto;
     box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.9);
 }
+
+.logocinerama{
+	width: 10%;
+	padding: 3%;
+	padding-left: 30% 0;
+	margin-left: 10%;
+}
+footer{
+	background-color: #6B0000;
+}
