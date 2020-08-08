@@ -115,11 +115,10 @@ header img {
 }
 
 .logocinerama{
-	width: 10%;
-	padding: 3%;
-	padding-left: 30% 0;
+	width: 100px;
 	margin-left: 10%;
 }
 footer{
 	background-color: #6B0000;
+	padding: 2em 0;
 }
